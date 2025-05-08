@@ -74,13 +74,10 @@ Bienvenue sur ce projet d’analyse des résultats d’une campagne marketing me
 
 ## 📸 Aperçu des graphiques
 
-![Répartition des souscriptions selon l’âge](https://github.com/Dtsi2006/bank-marketing-campaign-analysis/raw/main/06-age_subscription.png)
-
-![Taux de souscription par type de contact](https://github.com/Dtsi2006/bank-marketing-campaign-analysis/raw/main/07-contact_subscription.png)
-
-![Dashboard Marketing 1](https://github.com/Dtsi2006/bank-marketing-campaign-analysis/raw/main/08-bank%20marketing%20dashboard%2001.png)
-
-![Dashboard Marketing 2](https://github.com/Dtsi2006/bank-marketing-campaign-analysis/raw/main/09-bank%20marketing%20dashboard%2002.png)
+[Répartition des souscriptions selon l’âge](https://github.com/Dtsi2006/bank-marketing-campaign-analysis/raw/main/06-age_subscription.png)
+[Taux de souscription par type de contact](https://github.com/Dtsi2006/bank-marketing-campaign-analysis/raw/main/07-contact_subscription.png)
+[Dashboard Marketing 1](https://github.com/Dtsi2006/bank-marketing-campaign-analysis/raw/main/08-bank%20marketing%20dashboard%2001.png)
+[Dashboard Marketing 2](https://github.com/Dtsi2006/bank-marketing-campaign-analysis/raw/main/09-bank%20marketing%20dashboard%2002.png)
 
 
 ```
