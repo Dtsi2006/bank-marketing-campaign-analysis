@@ -62,7 +62,8 @@ Bienvenue sur ce projet d’analyse des résultats d’une campagne marketing me
 
 *À ajouter :*
 ```
-06-age_subscription.png
+![Aperçu âge](captures/06-age_subscription.png)
+![Aperçu contact](captures/contact_subscription.png)
 captures/age_subscription.png
 captures/contact_subscription.png
 ```
