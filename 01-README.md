@@ -12,12 +12,11 @@ Bienvenue sur ce projet d’analyse des résultats d’une campagne marketing me
 
 ```
 📁 bank-marketing-campaign-analysis
+├── README.md                      # Présentation du projet
 ├── bank.csv                       # Jeu de données brut
 ├── bank_data_cleaned.csv          # Jeu de données nettoyé
-├── BANK MARKETING DASHBOARD.pbix  # Fichier Power BI
-├── DESCRIPTION DU DATA SET.txt    # Documentation des variables
-├── README.md                      # Présentation du projet
-├── scripts/                       # Scripts de nettoyage/analyse 
+├── scripts/ python                # Scripts de nettoyage/analyse 
+├── description dataset.txt        # Documentation des variables
 └── captures/                      # Captures du dashboard
 ```
 
@@ -62,7 +61,7 @@ Bienvenue sur ce projet d’analyse des résultats d’une campagne marketing me
 
 *À ajouter :*
 ```
-[captures/age_subscription.png](https://github.com/Dtsi2006/bank-marketing-campaign-analysis/blob/main/06-age_subscription.png)
+(https://github.com/Dtsi2006/bank-marketing-campaign-analysis/blob/main/06-age_subscription.png)[captures/age_subscription.png]
 [captures/contact_subscription.png](https://github.com/Dtsi2006/bank-marketing-campaign-analysis/blob/main/07-contact_subscription.png)
 [captures/bank marketing dashboard 01.png](https://github.com/Dtsi2006/bank-marketing-campaign-analysis/blob/main/08-bank%20marketing%20dashboard%2001.png)
 [captures/bank marketing dashboard 02.png](https://github.com/Dtsi2006/bank-marketing-campaign-analysis/blob/main/09-bank%20marketing%20dashboard%2002.png)
