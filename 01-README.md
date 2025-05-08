@@ -17,8 +17,8 @@ Bienvenue sur ce projet d’analyse des résultats d’une campagne marketing me
 ├── BANK MARKETING DASHBOARD.pbix  # Fichier Power BI
 ├── DESCRIPTION DU DATA SET.txt    # Documentation des variables
 ├── README.md                      # Présentation du projet
-├── captures/                      # Captures du dashboard (à ajouter)
-└── scripts/                       # Scripts de nettoyage/analyse (si Python ajouté)
+├── scripts/                       # Scripts de nettoyage/analyse 
+└── captures/                      # Captures du dashboard
 ```
 
 ## 📊 Aperçu des données
@@ -62,10 +62,10 @@ Bienvenue sur ce projet d’analyse des résultats d’une campagne marketing me
 
 *À ajouter :*
 ```
-![Aperçu âge](captures/06-age_subscription.png)
-![Aperçu contact](captures/contact_subscription.png)
-captures/age_subscription.png
-captures/contact_subscription.png
+[captures/age_subscription.png](https://github.com/Dtsi2006/bank-marketing-campaign-analysis/blob/main/06-age_subscription.png)
+[captures/contact_subscription.png](https://github.com/Dtsi2006/bank-marketing-campaign-analysis/blob/main/07-contact_subscription.png)
+[captures/bank marketing dashboard 01.png](https://github.com/Dtsi2006/bank-marketing-campaign-analysis/blob/main/08-bank%20marketing%20dashboard%2001.png)
+[captures/bank marketing dashboard 02.png](https://github.com/Dtsi2006/bank-marketing-campaign-analysis/blob/main/09-bank%20marketing%20dashboard%2002.png)
 ```
 
 ## 🚀 À propos
