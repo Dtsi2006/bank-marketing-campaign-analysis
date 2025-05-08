@@ -62,13 +62,15 @@ Bienvenue sur ce projet d’analyse des résultats d’une campagne marketing me
 
 *À ajouter :*
 ```
-captures/dashboard_apercu.png
+![Capture d'écran 2025-05-08 161744](https://github.com/user-attachments/assets/1dabfed1-cd00-409c-933c-224fd0e9e2f7)
+![Capture d'écran 2025-05-08 161811](https://github.com/user-attachments/assets/0a66d7c5-afd9-4402-a1a9-de514659d6fd)
+
 captures/age_subscription.png
 captures/contact_subscription.png
 ```
 
 ## 🚀 À propos
 
-Projet réalisé par **DJIMAFO TIOKOU STEPHANE** — 2025
+Projet réalisé par **DJIMAFO TIOKOU , Data Analyst  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/) *(remplace par ton lien LinkedIn)*
+🔗 [LinkedIn](https://www.linkedin.com/in/stephane-djimafo/) | 📬 Me contacter pour échanger sur ce projet !
