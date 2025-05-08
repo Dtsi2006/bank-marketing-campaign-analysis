@@ -1,4 +1,3 @@
-
 # 💼 Analyse des campagnes marketing bancaires avec Power BI
 
 Bienvenue sur ce projet d’analyse des résultats d’une campagne marketing menée par une banque pour promouvoir un **dépôt à terme** auprès de ses clients.
